@@ -1,0 +1,9 @@
+streamlit
+vaderSentiment
+plotly
+pandas
+wordcloud
+matplotlib
+NRCLex
+textblob
+nltk
